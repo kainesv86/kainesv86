@@ -10,4 +10,5 @@
 <a href="mailto:kainesv86@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=kainesv86&show_icons=true&theme=radical" alt="KaineSV"/>
+<br>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kainesv86&layout=compact&theme=radical&langs_count=10" alt="KaineSV"/>
