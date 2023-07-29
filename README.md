@@ -1,7 +1,7 @@
 <p>
   <h1 align="center"><b>Hi there fellas! Welcome to my Github Profile!</b></h1>
 </p>
-<h4 align="center"><b>"Change is relentless, a chance. You must adapt, fight and rise above"</b></h4>
+<h4 align="center"><b>"I'm Frontend Developer and I provide web builder services, contact me if you interest"</b></h4>
 
 <p align="center">
 <br>
